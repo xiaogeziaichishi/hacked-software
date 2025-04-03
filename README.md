@@ -4,6 +4,7 @@
 2. [Clash for Windows 破解](https://github.com/Z-Siqi/Clash-for-Windows_Chinese )，我的仓库有源码，但是源仓库基本被存档了，不会再更新了
 3. [xshell、xftp、Xmanager绿色破解版下载地址](https://cloud.tencent.com/developer/article/2359857),我自己仓库也有下载好的，网址可能会有更新
 4. 剪影vip破解，可免vip输出视频，自己仓库可下载
+5. idm破解其他版本应该都行，我的6.4.2，下载包，然后执行IAS.cmd，选择2，9即可完成破解，[来源github](https://github.com/lstprjct/IDM-Activation-Script?tab=readme-ov-file)
 
 
 
