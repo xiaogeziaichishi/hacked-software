@@ -6,7 +6,9 @@
 4. 剪影vip破解，可免vip输出视频，自己仓库可下载
 5. idm破解其他版本应该都行，我的6.4.2，下载包，然后执行IAS.cmd，选择2，9即可完成破解，[来源github](https://github.com/lstprjct/IDM-Activation-Script?tab=readme-ov-file)
 
+软件破解网站：
 
+https://shiyrj.top/
 
 
 
